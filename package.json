@@ -1,7 +1,8 @@
 {
   "name": "next13-use-fuckup",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "private": true,
+  "license": "WTFPL",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
